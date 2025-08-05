@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou @MatheusVitoriano29
+# 👋 Olá, eu sou Matheus Vitoriano
 
 Experiência em desenvolvimento com Python, focado na criação de soluções eficientes, escaláveis e sustentáveis. Aplicação de boas práticas de codificação, versionamento com GitHub, e manutenção contínua do código.
 
