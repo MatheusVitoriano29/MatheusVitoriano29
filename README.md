@@ -1,20 +1,40 @@
-# 👋 Olá, eu sou Matheus Vitoriano
+<h1 data-importer="text" align="left">Mid-Pleno Level Python</h1>
 
-Experiência em desenvolvimento com Python, focado na criação de soluções eficientes, escaláveis e sustentáveis. Aplicação de boas práticas de codificação, versionamento com GitHub, e manutenção contínua do código.
+###
 
-Experiência em testes automatizados com Selenium, garantindo a qualidade e funcionalidade de aplicações web de forma rápida e confiável. Desenvolvimento de bots automatizados para otimização de processos operacionais e aumento de produtividade.
+<p data-importer="text" align="left">Meu nome é Matheus, sou desenvolvedor Python com mais de 2 anos de experiência, especializado em automação de processos e integração de sistemas,</p>
 
-Especialista na extração e manipulação de dados em documentos PDF, utilizando bibliotecas específicas para automação, assegurando precisão e eficiência em processos analíticos.
+###
 
-Desenvolvimento de APIs robustas e escaláveis com FastAPI, aplicando as melhores práticas em documentação, segurança e versionamento, promovendo fácil integração entre sistemas e times de desenvolvimento.
+<h2 data-importer="text" align="left">About me</h2>
 
-Atuação em ambientes ágeis (Scrum), colaborando ativamente em sprints, com foco em entregas eficientes, comunicação clara e adaptação às necessidades do projeto.
+###
 
-Domínio em SQL e SQL Server para a persistência, análise e gerenciamento de dados, assegurando integridade, performance e organização no armazenamento.
+<p data-importer="text" align="left">Desenvolvedor Python especializado em automação de processos e desenvolvimento de soluções que reduzem tempo e trabalho manual. Meu diferencial é unir conhecimento técnico à compreensão real das regras de negócio: antes de programar, busco entender como o processo funciona na prática, para que a solução resolva o problema certo, e não apenas automatize uma tarefa.<br> <br>Desenvolvo APIs com FastAPI, automações com Python e Selenium, integrações entre sistemas, web scraping e processamento inteligente de documentos (incluindo extração e tratamento de dados de PDFs). Essas soluções já ajudaram a eliminar tarefas manuais repetitivas e aumentar a produtividade de equipes operacionais.<br> <br>Também trabalho com: bancos de dados relacionais e não relacionais (SQL Server, SQLite, MongoDB), SQLAlchemy para modelagem de dados, Docker para padronização de ambientes, e metodologias ágeis (Scrum) com uso de Jira no dia a dia das entregas.<br> <br>Gosto de atuar na ponte entre tecnologia e negócio: entender o processo, mapear as regras que o governam e traduzir tudo isso em soluções técnicas confiáveis, escaláveis e que geram valor mensurável para a operação.</p>
 
-Experiência com bancos de dados NoSQL, como MongoDB, para modelagem flexível, armazenamento de grandes volumes de dados não estruturados e integração eficiente com aplicações Python, ampliando as possibilidades de análise e consulta.
+###
 
-Conhecimentos em conteinerização e orquestração com Docker, possibilitando ambientes de desenvolvimento consistentes e implantação ágil de aplicações.
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+</div>
+
+###
 
 ## 📫 Como Me Encontrar
 Sinta-se à vontade para se conectar comigo através de:
