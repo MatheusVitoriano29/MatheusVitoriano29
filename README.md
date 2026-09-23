@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Matheus, sou desenvolvedor Python com mais de 2 anos de experiência, especializado em automação de processos e integração de sistemas,</p>
+<p data-importer="text" align="left">Meu nome é Matheus, sou desenvolvedor Python com mais de 2 anos de experiência, especializado em automação de processos e integração de sistemas.</p>
 
 ###
 
